@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\TestTask\\ToDoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DAACE2-DD1F-47A1-97A1-3396C55FBE1A}|ToDoApp\\ToDoApp.csproj|e:\\testtask\\todoapp\\todoapp\\graphql\\mutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7DAACE2-DD1F-47A1-97A1-3396C55FBE1A}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\graphql\\mutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DAACE2-DD1F-47A1-97A1-3396C55FBE1A}|ToDoApp\\ToDoApp.csproj|e:\\testtask\\todoapp\\todoapp\\graphql\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7DAACE2-DD1F-47A1-97A1-3396C55FBE1A}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\graphql\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DAACE2-DD1F-47A1-97A1-3396C55FBE1A}|ToDoApp\\ToDoApp.csproj|e:\\testtask\\todoapp\\todoapp\\common\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7DAACE2-DD1F-47A1-97A1-3396C55FBE1A}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\common\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DAACE2-DD1F-47A1-97A1-3396C55FBE1A}|ToDoApp\\ToDoApp.csproj|e:\\testtask\\todoapp\\todoapp\\common\\dto\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7DAACE2-DD1F-47A1-97A1-3396C55FBE1A}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\common\\dto\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DAACE2-DD1F-47A1-97A1-3396C55FBE1A}|ToDoApp\\ToDoApp.csproj|e:\\testtask\\todoapp\\todoapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D7DAACE2-DD1F-47A1-97A1-3396C55FBE1A}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DAACE2-DD1F-47A1-97A1-3396C55FBE1A}|ToDoApp\\ToDoApp.csproj|e:\\testtask\\todoapp\\todoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7DAACE2-DD1F-47A1-97A1-3396C55FBE1A}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DAACE2-DD1F-47A1-97A1-3396C55FBE1A}|ToDoApp\\ToDoApp.csproj|e:\\testtask\\todoapp\\todoapp\\data\\todoappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7DAACE2-DD1F-47A1-97A1-3396C55FBE1A}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\data\\todoappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DAACE2-DD1F-47A1-97A1-3396C55FBE1A}|ToDoApp\\ToDoApp.csproj|e:\\testtask\\todoapp\\todoapp\\data\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7DAACE2-DD1F-47A1-97A1-3396C55FBE1A}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\data\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DAACE2-DD1F-47A1-97A1-3396C55FBE1A}|ToDoApp\\ToDoApp.csproj|e:\\testtask\\todoapp\\todoapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D7DAACE2-DD1F-47A1-97A1-3396C55FBE1A}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 222,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mutation.cs",
+              "DocumentMoniker": "E:\\TestTask\\ToDoApp\\ToDoApp\\GraphQL\\Mutation.cs",
+              "RelativeDocumentMoniker": "ToDoApp\\GraphQL\\Mutation.cs",
+              "ToolTip": "E:\\TestTask\\ToDoApp\\ToDoApp\\GraphQL\\Mutation.cs",
+              "RelativeToolTip": "ToDoApp\\GraphQL\\Mutation.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAiwDsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T12:19:56.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\TestTask\\ToDoApp\\ToDoApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ToDoApp\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\TestTask\\ToDoApp\\ToDoApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ToDoApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-09T10:32:17.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskDto.cs",
+              "DocumentMoniker": "E:\\TestTask\\ToDoApp\\ToDoApp\\Common\\Dto\\TaskDto.cs",
+              "RelativeDocumentMoniker": "ToDoApp\\Common\\Dto\\TaskDto.cs",
+              "ToolTip": "E:\\TestTask\\ToDoApp\\ToDoApp\\Common\\Dto\\TaskDto.cs",
+              "RelativeToolTip": "ToDoApp\\Common\\Dto\\TaskDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T10:30:21.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskStatus.cs",
+              "DocumentMoniker": "E:\\TestTask\\ToDoApp\\ToDoApp\\Common\\TaskStatus.cs",
+              "RelativeDocumentMoniker": "ToDoApp\\Common\\TaskStatus.cs",
+              "ToolTip": "E:\\TestTask\\ToDoApp\\ToDoApp\\Common\\TaskStatus.cs",
+              "RelativeToolTip": "ToDoApp\\Common\\TaskStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T12:53:16.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Query.cs",
+              "DocumentMoniker": "E:\\TestTask\\ToDoApp\\ToDoApp\\GraphQL\\Query.cs",
+              "RelativeDocumentMoniker": "ToDoApp\\GraphQL\\Query.cs",
+              "ToolTip": "E:\\TestTask\\ToDoApp\\ToDoApp\\GraphQL\\Query.cs",
+              "RelativeToolTip": "ToDoApp\\GraphQL\\Query.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T12:28:27.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\TestTask\\ToDoApp\\ToDoApp\\Program.cs",
+              "RelativeDocumentMoniker": "ToDoApp\\Program.cs",
+              "ToolTip": "E:\\TestTask\\ToDoApp\\ToDoApp\\Program.cs",
+              "RelativeToolTip": "ToDoApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T11:51:05.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ToDoAppDbContext.cs",
+              "DocumentMoniker": "E:\\TestTask\\ToDoApp\\ToDoApp\\Data\\ToDoAppDbContext.cs",
+              "RelativeDocumentMoniker": "ToDoApp\\Data\\ToDoAppDbContext.cs",
+              "ToolTip": "E:\\TestTask\\ToDoApp\\ToDoApp\\Data\\ToDoAppDbContext.cs",
+              "RelativeToolTip": "ToDoApp\\Data\\ToDoAppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T11:38:45.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Task.cs",
+              "DocumentMoniker": "E:\\TestTask\\ToDoApp\\ToDoApp\\Data\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "ToDoApp\\Data\\Models\\Task.cs",
+              "ToolTip": "E:\\TestTask\\ToDoApp\\ToDoApp\\Data\\Models\\Task.cs",
+              "RelativeToolTip": "ToDoApp\\Data\\Models\\Task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T11:37:15.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\TestTask\\ToDoApp\\ToDoApp\\appsettings.json",
+              "RelativeDocumentMoniker": "ToDoApp\\appsettings.json",
+              "ToolTip": "E:\\TestTask\\ToDoApp\\ToDoApp\\appsettings.json",
+              "RelativeToolTip": "ToDoApp\\appsettings.json",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-08T11:29:21.756Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
