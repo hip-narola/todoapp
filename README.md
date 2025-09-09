@@ -14,7 +14,7 @@ The application allows users to:
 
 ****2. Architecture & Approach****
 
-**Backend**
+**Backend** (ToDoApp)
 - GraphQL schema with Task type (id, title, description, status).
 - Mutations:
   - createTask → add a new task
@@ -23,7 +23,7 @@ The application allows users to:
   - getAllTasks → fetch all tasks
 - Persistence handled via Entity Framework Core.
 
-**Frontend**
+**Frontend** (ToDoReact)
 - React app with Relay GraphQL client.
 - Components to:
   - Add new tasks
