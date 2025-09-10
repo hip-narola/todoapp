@@ -5,7 +5,7 @@ The project demonstrates my ability to design, implement, and containerize a ful
 
 - Backend: ASP.NET Core + GraphQL + Entity Framework Core + SQL Server
 - Frontend: React (with Relay GraphQL client)
-- Database: SQL Server (can be swapped with SQLite for simplicity)
+- Database: SQL Server
 
 The application allows users to:
 - Create a new task (title, description)
