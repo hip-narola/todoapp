@@ -23,8 +23,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "npm run relay && react-scripts start",
-    "build": "npm run relay && react-scripts build",
+    "start": "node init && npm run relay && react-scripts start",
+    "build": "node init && npm run relay && react-scripts build",
     "relay": "relay-compiler",
     "relay:watch": "relay-compiler --watch"
   },
